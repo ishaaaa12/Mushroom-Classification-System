@@ -12,8 +12,8 @@ Multiple Classifiers: Choose between SVM, Logistic Regression, and Random Forest
 
 Hyperparameter Tuning: Adjust model hyperparameters using an interactive sidebar.
 
-Model Evaluation Metrics:Confusion Matrix
-                         ROC Curve
+Model Evaluation Metrics:Confusion Matrix,
+                         ROC Curve,
                          Precision-Recall Curve
 
 View Raw Data: Option to display the original mushroom dataset used for classification.
